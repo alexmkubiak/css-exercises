@@ -1,0 +1,20 @@
+/* styles.css */
+
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+.third {
+    font-size: 24px;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+#anotherID {
+    font-size: 24px;
+    background-color: lightgreen;
+}
